@@ -2,7 +2,7 @@ Miwok App
 ===================================
 
 This app displays lists of vocabulary words for the user to learn the Miwok language.
-Get the apk [here] (https://drive.google.com/open?id=1sezqwgp0Qa08MEd7NlqIM0S9vIGvqnTg "miwok.apk").
+Get the apk [here](https://drive.google.com/open?id=1sezqwgp0Qa08MEd7NlqIM0S9vIGvqnTg "miwok.apk").
 Built for Udacity course in the Beginning Android Nanodegree.
 
 ## Screens
